@@ -1,5 +1,4 @@
 [Proxy]
 Music1 = http,106.52.127.72,19951
-Music2 = Shadowsocks,music.desperadoj.com,30001,aes-128-gcm,"desperadoj.com_free_proxy_emx2"
-Music3 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,"desperadoj.com_free_proxy_emx2"
-
+Music2 = Shadowsocks,music.desperadoj.com,30001,aes-128-gcm,"desperadoj.com_free_proxy_emx2",fast-open=false,udp=false
+Music3 = Shadowsocks,music.desperadoj.com,30003,aes-128-gcm,"desperadoj.com_free_proxy_d39m",fast-open=false,udp=false
