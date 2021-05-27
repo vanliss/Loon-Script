@@ -1,4 +1,0 @@
-HeroKu  防失联 = vmess,104.18.103.4,443,chacha20-ietf-poly1305,"dfcd6f62-e582-4a13-97d2-0f8644437648",transport=ws,path=/dfcd6f62-e582-4a13-97d2-0f8644437648-vmess,host=mute-mud-4a1a.ol9.workers.dev,over-tls=true,tls-name=mute-mud-4a1a.ol9.workers.dev
-LA Trojan直连 = Trojan,cls.on9.ltd,443,"ksmaiZ81"
-软银Torjan直连 = Trojan,jp.on9.ltd,443,"ksmaiZ81"
-香港Torjan直连 = Trojan,hkdl.on9.ltd,443,"ksmaiZ81"
